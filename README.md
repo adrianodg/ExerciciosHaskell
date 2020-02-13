@@ -1,1 +1,1 @@
-# ExerciciosHaskell
+# Simple Haskell exercises
